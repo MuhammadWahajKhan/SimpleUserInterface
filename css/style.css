@@ -1,0 +1,209 @@
+.main{
+    background-color: crimson;
+    color: white;
+    height: 30px;
+}
+.main p{
+    font-weight: bold;
+    line-height: 30px;
+}
+.header span{
+    color: crimson;
+}
+.header h2{
+    font-weight: bold;
+}
+
+nav li a{
+    font-weight: bold;
+    font-size: 18px;
+}
+.sec{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.sec h2{
+    font-weight: bolder;
+}
+.sec p{
+    font-size: 24px;
+    color: grey;
+}
+.box{
+    border: 1px solid #CCC;
+  
+    border-radius: 20px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.box button{
+    margin-bottom: 10px;
+    color: crimson;
+    background-color: white;
+    border: 1px solid crimson;
+    border-radius: 10px;
+}
+.box button:hover{
+    background-color: crimson;
+}
+.box img{
+    margin-top: 10px;
+}
+.box h3{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box p{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.row{
+    margin-left: 15rem;
+}
+.get{
+    background-color: #eee;
+    margin-top: 5rem;
+    padding-bottom: 2rem;
+}
+.he h2{
+    padding-top: 4rem;
+}
+.he p{
+    font-size: 20px;
+    color: grey;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.he button{
+    margin-bottom: 10px;
+    color: crimson;
+    background-color: white;
+    border: 1px solid crimson;
+    border-radius: 10px;
+}
+.he button:hover{
+    background-color: crimson;
+}
+.con{
+    margin-top: 5rem;
+}
+.con button{
+    margin-bottom: 10px;
+    color: crimson;
+    background-color: white;
+    border: 1px solid crimson;
+    border-radius: 10px;
+}
+.con button:hover{
+    background-color: crimson;
+}
+.con h2{
+    font-weight: bolder;
+}
+.con p{
+    font-size: 20px;
+    color: grey;
+}
+.cag{
+    background-color: crimson;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.cag h3,p{
+    color: white;
+}
+.cag h3{
+    padding-top: 2rem;
+}
+.cag button{
+    margin-bottom: 10px;
+    color: crimson;
+    background-color: white;
+    border: 1px solid crimson;
+    border-radius: 10px;
+    margin-top: 3rem;
+}
+.cag button:hover{
+    background-color: crimson;
+    border: 1px solid white;
+}
+.leads{
+    margin-top: 5rem;
+}
+.leads button{
+    margin-bottom: 10px;
+    color: crimson;
+    background-color: white;
+    border: 1px solid crimson;
+    border-radius: 10px;
+}
+.leads button:hover{
+    background-color: crimson;
+}
+.leads h2{
+    font-weight: bolder;
+    margin-top: 5rem;
+}
+.leads p{
+    font-size: 20px;
+    color: grey;
+}
+
+
+.foot{
+    background-color:grey;
+  ;
+}
+.as{
+    padding-top: 3rem;
+    margin-left: -20px;
+}
+.tw{
+    color: white;
+}
+.face{
+    color: white;
+}
+.goo{
+    color: white;
+}
+.ins{
+    color: white;
+}
+.you{
+    color: white;
+}
+.cus{
+    background-color: crimson;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.cus h2{
+    color: white;
+    font-weight: bolder;
+}
+.let{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.let p{
+    color: grey;
+}
+.let input{
+    margin-bottom: 2rem;
+}
+.let button{
+    margin-bottom: 10px;
+    color: crimson;
+    background-color: white;
+    border: 1px solid crimson;
+    border-radius: 10px;
+    margin-top: 2rem;
+    font-weight: bolder;
+}
+.let button:hover{
+    background-color: crimson;
+}
